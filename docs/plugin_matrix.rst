@@ -172,6 +172,7 @@ raiplay                 raiplay.it           Yes   No    Most streams are geo-re
 reshet                  reshet.tv            Yes   Yes   Streams may be geo-restricted to Israel.
 rtbf                    - rtbf.be/auvio      Yes   Yes   Streams may be geo-restricted to Belgium or Europe.
                         - rtbfradioplayer.be
+rtklive_com             rtklive.com          Yes   No    Streams may be geo-restricted to Kosovo.
 rtlxl                   rtlxl.nl             No    Yes   Streams may be geo-restricted to The Netherlands. Livestreams not supported.
 rte                     rte.ie/player        Yes   Yes
 rtpplay                 rtp.pt/play          Yes   Yes   Streams may be geo-restricted to Portugal.
