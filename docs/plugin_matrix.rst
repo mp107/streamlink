@@ -32,6 +32,7 @@ bbciplayer              bbc.co.uk/iplayer    Yes   Yes   Streams may be geo-rest
 beattv                  be-at.tv             Yes   Yes   Playlist not implemented yet.
 bfmtv                   bfmtv.com            Yes   Yes
                         01net.com
+bhrt_ba                 bhrt.ba              Yes   Yes
 bigo                    - live.bigo.tv       Yes   --
                         - bigoweb.co
 bilibili                live.bilibili.com    Yes   ?
